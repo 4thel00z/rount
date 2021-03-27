@@ -1,7 +1,7 @@
 # rount
 
 ![rount-tests](https://github.com/4thel00z/rount/workflows/Test/badge.svg)
-![rount-logo](https://raw.githubusercontent.com/4thel00z/rount/master/logo.png)
+![rount-logo](https://raw.githubusercontent.com/4thel00z/rount/master/rount.png)
 
 ## Motivation
 
